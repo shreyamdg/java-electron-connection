@@ -1,0 +1,20 @@
+{
+  "name": "showname",
+  "version": "1.0.0",
+  "description": "App which shows team member name.",
+  "main": "main.js",
+  "scripts": {
+    "rebuild-modules": "electron-rebuild",
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^1.4.15",
+    "java": "^0.8.0"
+  },
+  "devDependencies": {
+    "electron": "^3.0.4",
+    "electron-rebuild": "^1.8.2"
+  },
+  "author": "shreyam duttagupta",
+  "license": "ISC"
+}
